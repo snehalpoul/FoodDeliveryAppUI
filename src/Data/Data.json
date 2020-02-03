@@ -1,0 +1,127 @@
+{
+ "home": [
+    {
+        "id": 1,
+        "OrderID": 1501,
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "NumberofMenuItems": 5
+    },
+    {
+        "id": 2,
+        "OrderID": 1502,
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "NumberofMenuItems": 5
+    },
+    {
+        "id": 3,
+        "OrderID": 1507,
+        "RestaurantName": "Hotel Rechie Rich",
+        "CustomerName": "John Jane",
+        "NumberofMenuItems": 7
+    }   
+],
+"homepickedup": [
+    {
+        "id": 1,
+        "OrderID": 1503,
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "NumberofMenuItems": 2
+    },
+    {
+        "id": 2,
+        "OrderID": 1504,
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "NumberofMenuItems": 6
+    },
+    {
+        "id": 3,
+        "OrderID": 1505,
+        "RestaurantName": "Hotel Rechie Rich",
+        "CustomerName": "John Jane",
+        "NumberofMenuItems": 7
+    }   
+],
+
+"Profile":[
+    {
+      "id":1,
+      "UserName":"John Doe",
+      "EmailID":"John_doe@gmail.com",
+      "MobileNumber":1234567890,
+      "City":"Paris",
+      "Address":"Abc Building",
+      "MotorBikeNo":"MMZ 1008"
+    }
+],
+
+"pastorders": [
+    {
+        "id": 1,
+        "OrderID":1501,
+        "DeliveryDate":"20th November 2019",
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "PaymentType": "Cash"
+    },
+     {
+        "id": 2,
+        "OrderID":1505,
+        "DeliveryDate":"20th November 2019",
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "PaymentType": "Cash"
+    },
+     {
+        "id": 3,
+        "OrderID":1507,
+        "DeliveryDate":"20th November 2019",
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "PaymentType": "Cash"
+    },
+     {
+        "id": 4,
+        "OrderID":1502,
+        "DeliveryDate":"20th November 2019",
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "PaymentType": "Cash"
+    },
+     {
+        "id": 5,
+        "OrderID":1504,
+        "DeliveryDate":"20th November 2019",
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "PaymentType": "Cash"
+    },
+     {
+        "id": 6,
+        "OrderID":1503,
+        "DeliveryDate":"20th November 2019",
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "PaymentType": "Cash"
+    },
+     {
+        "id": 7,
+        "OrderID":1510,
+        "DeliveryDate":"20th November 2019",
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "PaymentType": "Cash"
+    },
+     {
+        "id": 8,
+        "OrderID":1506,
+        "DeliveryDate":"20th November 2019",
+        "RestaurantName": "Hotel Plaza",
+        "CustomerName": "Michael Jordan",
+        "PaymentType": "Cash"
+    }
+]
+}
